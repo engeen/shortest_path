@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://C:/ignite/libs" />
+      <root url="file://C:/ignite/libs/ignite-indexing" />
+      <root url="file://C:/ignite/libs/ignite-spring" />
+      <root url="file://C:/ignite/libs/optional/ignite-spark" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/ignite/libs" recursive="false" />
+    <jarDirectory url="file://C:/ignite/libs/ignite-indexing" recursive="false" />
+    <jarDirectory url="file://C:/ignite/libs/ignite-spring" recursive="false" />
+    <jarDirectory url="file://C:/ignite/libs/optional/ignite-spark" recursive="false" />
+  </library>
+</component>

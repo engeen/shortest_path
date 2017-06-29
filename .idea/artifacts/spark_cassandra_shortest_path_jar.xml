@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="spark_cassandra_shortest_path:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_cassandra_shortest_path_jar</output-path>
+    <root id="root">
+      <element id="archive" name="spark_cassandra_shortest_path.jar">
+        <element id="module-output" name="spark_cassandra_shortest_path" />
+      </element>
+      <element id="library" level="application" name="scala-sdk-2.11.8" />
+      <element id="library" level="project" name="Spark" />
+    </root>
+  </artifact>
+</component>
